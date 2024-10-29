@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Pdp-encryption/static/css/main.fb11845c.css",
+    "main.js": "/Pdp-encryption/static/js/main.b206d6ab.js",
+    "static/js/453.985cbec8.chunk.js": "/Pdp-encryption/static/js/453.985cbec8.chunk.js",
+    "index.html": "/Pdp-encryption/index.html",
+    "main.fb11845c.css.map": "/Pdp-encryption/static/css/main.fb11845c.css.map",
+    "main.b206d6ab.js.map": "/Pdp-encryption/static/js/main.b206d6ab.js.map",
+    "453.985cbec8.chunk.js.map": "/Pdp-encryption/static/js/453.985cbec8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb11845c.css",
+    "static/js/main.b206d6ab.js"
+  ]
+}
